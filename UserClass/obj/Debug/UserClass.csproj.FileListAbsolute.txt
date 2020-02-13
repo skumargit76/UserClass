@@ -1,0 +1,6 @@
+D:\NetProjectExample\Axceligent Solutions\UserClass\UserClass\bin\Debug\UserClass.exe.config
+D:\NetProjectExample\Axceligent Solutions\UserClass\UserClass\bin\Debug\UserClass.exe
+D:\NetProjectExample\Axceligent Solutions\UserClass\UserClass\bin\Debug\UserClass.pdb
+D:\NetProjectExample\Axceligent Solutions\UserClass\UserClass\obj\Debug\UserClass.csprojResolveAssemblyReference.cache
+D:\NetProjectExample\Axceligent Solutions\UserClass\UserClass\obj\Debug\UserClass.exe
+D:\NetProjectExample\Axceligent Solutions\UserClass\UserClass\obj\Debug\UserClass.pdb
